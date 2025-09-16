@@ -8,9 +8,6 @@ A fully functional two-player chess application built with vanilla JavaScript, H
 
 <img width="955" height="949" alt="image" src="https://github.com/user-attachments/assets/d60042e4-660c-46f6-98d9-0a89dd4a3fdd" />
 
-
-[**Live Demo**](https://your-username.github.io/chess-game/) | [Source Code](https://github.com/your-username/chess-game)
-
 ## ✨ Features
 
 - **Core Chess Movement**: Complete implementation of basic piece movement rules for all chess pieces
